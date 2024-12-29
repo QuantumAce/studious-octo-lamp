@@ -1,7 +1,6 @@
 # FlashCard App
 
-A minimalist flashcard app created for the Hack Club Dessert Android Project by GlidedApex.
-
+A minimalist flashcard app
 ## Features
 
 - 📚 Create and manage flashcards for effective learning
@@ -31,8 +30,7 @@ A minimalist flashcard app created for the Hack Club Dessert Android Project by 
 
 ## About
 
-This app is part of the Hack Club Dessert Android Project, designed to help students learn effectively through digital flashcards. Made with ❤️ by GlidedApex.
-
+This app is designed to help students learn effectively through digital flashcards. Made with ❤️ 
 ## For Reviewers
 
 This app aims to provide a clean, focused learning experience. Key points to consider:
@@ -42,6 +40,3 @@ This app aims to provide a clean, focused learning experience. Key points to con
 - Performance and reliability
 - Code quality (Kotlin, MVVM, Room DB)
 
-## Credits
-
-Created by GlidedApex for the Hack Club Dessert Android Project.
